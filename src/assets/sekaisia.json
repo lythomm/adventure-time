@@ -1,0 +1,135 @@
+{
+  "stories": [
+    {
+      "chapter": 1,
+      "texts": [
+        {
+          "text": "Tu te réveilles au milieu d’une plaine, une légère brise caresse ton visage et une lointaine mélodie éveille ton ouïe. Ton corps est tout engourdi et tu ne sais pas pourquoi tu es là et ce que tu faisais avant d’arriver à cet endroit. Tu sens le long de ton visage, une larme couler, emplie de tristesse et de rancœur. Tu l’essuies sans trop savoir pourquoi elle est là. Tu essaies de te rappeler mais rien n’y fait, tout ce qui te vient à l’esprit, c’est un trou noir béant de souvenirs inexistants."
+        },
+        {
+          "text": "En te relevant, tu aperçois quelque chose au sol au milieu des hautes herbes, quelque chose brillant d’une étrange lueur. Tu te penches et tu ramasses..."
+        }
+      ],
+      "choices": [
+        {
+          "text": "Une épée",
+          "newItem": "common_sword",
+          "nextChapter": 2
+        },
+        {
+          "text": "Un arc",
+          "newItem": "common_bow",
+          "nextChapter": 3
+        },
+        {
+          "text": "Un sceptre",
+          "newItem": "common_scepter",
+          "nextChapter": 4
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "texts": [
+        {
+          "text": "Plus tu approches ta main de la garde de l’arme, plus une lueur mystique émane de cette dernière. La lame, aussi brillante qu'une étoile, t'éblouit. Lorsque tu l’empoignes, la brandissant instinctivement vers le ciel, tu sens une force spirituelle envahir ton corps et des fragments de souvenirs affluer dans ton esprit, te provoquant des maux de tête. Cependant, ces souvenirs sont encore trop brumeux pour y voir clair.",
+          "ellipsis": true
+        },
+        {
+          "text": "La mélodie que tu entendais devient de plus en plus forte mais tu n’arrives pas à discerner d'où elle provient. Tu décides donc d'aller :"
+        }
+      ],
+      "choices": [
+        {
+          "text": "vers la forêt",
+          "nextChapter": 5
+        },
+        {
+          "text": "en direction du lac",
+          "nextChapter": 6
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "texts": [
+        {
+          "text": "Plus tu approches ta main de la corde de l’arc, plus une lueur mystique émane de ce dernier. Tu reconnais immédiatement le bois de l'arc, celui de Valesya, la terre des elfes noirs. Lorsque tu l’empoignes, le brandissant instinctivement vers le ciel, tu sens une force spirituelle envahir ton corps et des fragments de souvenirs affluer dans ton esprit, te provoquant des maux de tête. Cependant, ces souvenirs sont encore trop brumeux pour y voir clair."
+        },
+        {
+          "text": "La mélodie que tu entendais devient de plus en plus forte mais tu n’arrives pas à discerner d'où elle provient. Tu décides donc d'aller :"
+        }
+      ],
+      "choices": [
+        {
+          "text": "vers la forêt",
+          "nextChapter": 5
+        },
+        {
+          "text": "en direction du lac",
+          "nextChapter": 6
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "texts": [
+        {
+          "text": "Plus tu approches ta main du sceptre, plus une lueur mystique émane de ce dernier. Le baton était fait d'un bois raffiné, orné de pierres précieuses et d'écritures ancestrales. Lorsque tu l’empoignes, le brandissant instinctivement vers le ciel, tu sens une force spirituelle envahir ton corps et des fragments de souvenirs afflux ton esprit, te provocant des maux de têtes. Cependant, ces souvenirs sont encores trop brumeux pour y voir claire."
+        },
+        {
+          "text": "La mélodie que tu entendais devient de plus en plus forte mais tu n’arrives pas à discerner d'où elle provient. Tu décides donc d'aller :"
+        }
+      ],
+      "choices": [
+        {
+          "text": "vers la forêt",
+          "nextChapter": 5
+        },
+        {
+          "text": "en direction du lac",
+          "nextChapter": 6
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "texts": [
+        {
+          "text": "Tu entres dans une forêt, où la magie coule comme la sève des arbres millénaires. Ces derniers, si majestueux, aux feuilles chatoyantes, s'élèvent vers le ciel, créant une canopée magique qui filtre la lumière du soleil, la transformant en éclats scintillants. Des rivières d'eau cristalline serpentent entre les arbres, formant des cascades étincelantes qui chantent une ballade apaisante."
+        },
+        {
+          "text": "Au détour d'un chemin, tu aperçois un majestueux cerf, doté de grandes cornes fourmillant de détails. Il est d'une tel prestance que tu as du mal à détourner ton regard mais la mélodie t'appelle."
+        }
+      ],
+      "choices": [
+        {
+          "text": "chap 1",
+          "nextChapter": 1
+        },
+        {
+          "text": "chap 1",
+          "nextChapter": 1
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "texts": [
+        {
+          "text": "LE LAC"
+        }
+      ],
+      "choices": [
+        {
+          "text": "chap 1",
+          "nextChapter": 1
+        },
+        {
+          "text": "chap 1",
+          "nextChapter": 1
+        }
+      ]
+    }
+  ]
+}

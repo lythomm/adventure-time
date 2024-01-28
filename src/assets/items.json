@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "common_sword",
+      "name": "Épée",
+      "description": "Lame très aiguisée, très utile pour le combat rapproché",
+      "atk": 3,
+      "str": 1,
+      "rarity": "common"
+    },
+    {
+      "id": "common_bow",
+      "name": "Arc",
+      "description": "Très flexible, il permet à l'utilisateur de toucher sa cible de très loin.",
+      "atk": 2,
+      "dex": 1,
+      "rarity": "common"
+    },
+    {
+      "id": "common_scepter",
+      "name": "Sceptre",
+      "description": "Sceptre au bois très raffinée. Amplifi la puissance des sorts.",
+      "atk": 2,
+      "int": 1,
+      "rarity": "common"
+    }
+  ]
+}
